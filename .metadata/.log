@@ -1,0 +1,57 @@
+!SESSION 2020-10-14 14:13:52.905 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 7 amd64-64 Compressed References 20170406_343211 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR4_20170406_2107_B343211
+JIT  - tr.r13.java_20170406_343211
+GC   - R27_Java727_SR4_20170406_2107_B343211_CMPRSS
+J9CL - 20170406_343211
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b sample.bar -a iib-sample -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\sharms54\IBM\IIBT10\iib-sample -b sample.bar -a iib-sample -cleanBuild
+
+!ENTRY org.eclipse.equinox.registry 2 0 2020-10-14 14:14:01.036
+!MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-10-14 14:14:04.331
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-10-14 14:14:07.173
+!MESSAGE 
+!SESSION 2020-10-14 14:46:03.514 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 7 amd64-64 Compressed References 20170406_343211 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR4_20170406_2107_B343211
+JIT  - tr.r13.java_20170406_343211
+GC   - R27_Java727_SR4_20170406_2107_B343211_CMPRSS
+J9CL - 20170406_343211
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b sample.bar -a iib-sample -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\sharms54\IBM\IIBT10\iib-sample -b sample.bar -a iib-sample -cleanBuild
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-10-14 14:46:05.270
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-10-14 14:46:05.675
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-10-14 14:46:09.202
+!MESSAGE 
+!SESSION 2020-10-14 15:14:38.635 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 7 amd64-64 Compressed References 20170406_343211 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR4_20170406_2107_B343211
+JIT  - tr.r13.java_20170406_343211
+GC   - R27_Java727_SR4_20170406_2107_B343211_CMPRSS
+J9CL - 20170406_343211
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b sample.bar -a iib-sample -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\sharms54\IBM\IIBT10\iib-sample\ -b sample.bar -a iib-sample -cleanBuild
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-10-14 15:14:40.233
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-10-14 15:14:40.603
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2020-10-14 15:14:41.883
+!MESSAGE 

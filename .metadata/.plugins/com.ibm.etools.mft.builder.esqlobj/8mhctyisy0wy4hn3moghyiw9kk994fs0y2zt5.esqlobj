@@ -1,7 +1,4 @@
-
-
-CREATE COMPUTE MODULE sample_Compute
-	CREATE FUNCTION Main() RETURNS BOOLEAN
+/*EATE FUNCTION Main() RETURNS BOOLE*/
 	BEGIN
 		-- CALL CopyMessageHeaders();
 		 CALL CopyEntireMessage();
@@ -21,4 +18,3 @@ CREATE COMPUTE MODULE sample_Compute
 	CREATE PROCEDURE CopyEntireMessage() BEGIN
 		SET OutputRoot = InputRoot;
 	END;
-END MODULE;
